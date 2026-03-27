@@ -1,0 +1,5 @@
+{
+  "name": "TriageSim: ED Clinical Simulator",
+  "description": "Interactive web-based simulation tool to teach vital signs interpretation and clinical triage decision-making for medical students and junior doctors.",
+  "requestFramePermissions": []
+}
